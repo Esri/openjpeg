@@ -43,6 +43,9 @@
 #define OPENJPEG_H
 
 
+// RTC defines
+#define OPJ_STATIC // force hidden visibility for all symbols since openjpeg will be a static library
+
 /*
 ==========================================================
    Compiler directives
