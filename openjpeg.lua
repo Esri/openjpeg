@@ -18,7 +18,6 @@ files {
   "src/lib/openjp2/dwt.c",
   "src/lib/openjp2/event.c",
   "src/lib/openjp2/function_list.c",
-  "src/lib/openjp2/ht_dec.c",
   "src/lib/openjp2/image.c",
   "src/lib/openjp2/invert.c",
   "src/lib/openjp2/j2k.c",
@@ -32,7 +31,6 @@ files {
   "src/lib/openjp2/t2.c",
   "src/lib/openjp2/tcd.c",
   "src/lib/openjp2/tgt.c",
-  "src/lib/openjp2/sparse_array.c",
   "src/lib/openjp2/thread.c",
 }
 
