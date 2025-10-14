@@ -1,7 +1,7 @@
 #if defined(RTC_COCOA_FAMILY)
 /* create opj_config_private.h for CMake */
 
-#define OPJ_PACKAGE_VERSION "2.5.2"
+#define OPJ_PACKAGE_VERSION "2.5.4"
 
 /* Not used by openjp2*/
 /*#define HAVE_MEMORY_H 1*/
@@ -53,7 +53,7 @@ On other platforms we use the result of the TRY_RUN. */
 #elif defined(RTC_LINUX_FAMILY)
 /* create opj_config_private.h for CMake */
 
-#define OPJ_PACKAGE_VERSION "2.5.2"
+#define OPJ_PACKAGE_VERSION "2.5.4"
 
 /* Not used by openjp2*/
 /*#define HAVE_MEMORY_H 1*/
@@ -105,7 +105,7 @@ On other platforms we use the result of the TRY_RUN. */
 #elif defined(RTC_WINDOWS_FAMILY)
 /* create opj_config_private.h for CMake */
 
-#define OPJ_PACKAGE_VERSION "2.5.2"
+#define OPJ_PACKAGE_VERSION "2.5.4"
 
 /* Not used by openjp2*/
 /*#define HAVE_MEMORY_H 1*/
