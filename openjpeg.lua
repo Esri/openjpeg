@@ -10,6 +10,7 @@ flags { "NoPCH" }
 
 includedirs {
   "src/lib/openjp2",
+  "src_generated/lib/openjp2",
 }
 
 files {
